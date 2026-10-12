@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Use TanStack Start server functions and Lovable Cloud for Flowzeno backend capabilities, because the user chose the Lovable-native architecture over a separate Express/Prisma/Render stack.
